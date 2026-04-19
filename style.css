@@ -12,7 +12,7 @@ nav ul {
   display: flex;  
   justify-content:center;
   list-style-type: none;     /* Removes bullet points */
-  gap: 1px;                 /* Optional: Adds space between items */
+  gap: 10px;                 /* Optional: Adds space between items */
   font-size:30px;
   margin-top:20px;
 }
