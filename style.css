@@ -22,7 +22,7 @@ nav ul li a {
     text-decoration: none; /* Optional: removes underline */
 }
 
-.nav-link{
+.nav-bar nav a{
   text-color:green;
 }
 
