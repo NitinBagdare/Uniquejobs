@@ -83,4 +83,6 @@ color:dark green;
     background-color: #128c7e;
     transform: scale(1.1);
 }
-
+.special-link{
+  .special-link { color: green; }
+}
