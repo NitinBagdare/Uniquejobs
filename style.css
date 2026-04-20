@@ -22,8 +22,8 @@ nav ul li a {
     text-decoration: none; /* Optional: removes underline */
 }
 
-.nav-bar nav a{
-  text-color:green;
+.nav-link {whatsapp now}{
+color:dark green;
 }
 
 
