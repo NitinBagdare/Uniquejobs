@@ -86,3 +86,7 @@ color:dark green;
 .special-link{
   .special-link { color: green; }
 }
+.nav-email {
+  margin-top: auto; /* Keeps the email intact and pushed to the bottom */
+  padding-top: 20px;
+}
